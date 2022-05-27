@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Sensei-Stakepool
 
-You can use the [editor on GitHub](https://github.com/Trrxx/Sensei-Stakepool/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Who are we?
+Devoted to the support of youth growth and activity, we here at Sensei-stakepool are trying to bridge the world of crypto to the sport karate world. Using the Cardano platform, we are trying to introduce more user adoption as well as help children accomplish thier dreams within sports karate.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How?
+Using a small percentage of the earnings this pool makes, we devote 2% towards funding or sponsoring children chosen at random at karate sporting events throuout the year.
 
-### Markdown
+### Can you help?
+Yes! To help us achieve our goal, you can stake with us using your cardano wallet of choice that support staking protocols (eg daedelus wallet).
+Ticker: ttsp
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### More info on Cardano and staking
 
 ```markdown
 Syntax highlighted code block
