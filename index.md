@@ -22,7 +22,7 @@ Being massive fans and advocates of decentralization, as well as having a commun
 
 ### More info on Cardano & Staking
 For more information on what Cardano is or what the staking protocol is, please visit the link provided below:
-1. (https://cardano.org/)
+1. [https://cardano.org/]
 2. (https://cardano.org/stake-pool-operation#what-is-staking)
 
 We will continue to update this page with images of our sponsored competitors at events as well as their results at the events! Thank you so much for your support and continued support,
