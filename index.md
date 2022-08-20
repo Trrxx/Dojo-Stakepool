@@ -2,7 +2,7 @@
 # Welcome to Dojo Stakepool
 
 ### Who are we?
-Based out of a small town in northern British Columbia, Canada, we are devoted to the support and growth of children. We here at Sensei-stakepool are trying to bridge the world of crypto to the sport karate world. Using the Cardano platform, we are trying to help children accomplish thier dreams within sports karate as well as try and increase user adoption and grow the crypto community.
+Based out of a small town in northern British Columbia, Canada, we are devoted to the support and growth of children. We here at DOJO stakepool are trying to bridge the world of crypto to the sport karate world. Using the Cardano platform, we are trying to help children accomplish thier dreams within sports karate as well as try and increase user adoption and grow the crypto community.
 
 ### How do we plan on accomplishing this?
 Using a percentage of the earnings this pool makes, we devote 1% towards funding or sponsoring children chosen at random at karate sporting events throughout the year. Once this pool operates at saterated levels, we anticipate aproximatly 35,000 ADA in donations yearly to children and youth. We are interested in donating anything from equipment to travel expenses for karate sport tournaments.
