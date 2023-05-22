@@ -2,8 +2,8 @@
 # Welcome to Dojo Stakepool
 We are Live!! As of epoch 358 (08/18/22) we are now offically ready stake!!
 
-### Updates
-After 3/4 of the last year of being operational, DOJO has successfully minted 3 blocks. Our delegators are making money and 3% of the earnings from all rewards will be given to children at random at martial arts sporting events.
+### Updates (May 22nd 2023)
+After 3/4 of the last year of being operational, DOJO has successfully minted 3 blocks. Our delegators are making money and 3% of the earnings from all rewards will be given to children at random at martial arts sporting events. Our social media outlets were created and have been growing in followers. Instagram, Facebook and YouTube pages for DOJO stakepool have been created.
 
 What's Next?
 
