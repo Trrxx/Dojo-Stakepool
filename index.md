@@ -1,15 +1,28 @@
 
 # Welcome to Dojo Stakepool
+We are Live!! As of epoch 358 (08/18/22) we are now offically ready stake!!
+
+### Updates
+After 3/4 of the last year of being operational, DOJO has successfully minted 3 blocks. Our delegators are making money and 3% of the earnings from all rewards will be given to children at random at martial arts sporting events.
+
+What's Next?
+
+DOJO Stakepool is ever growing and we require delegation at saturated (K) levels in order maximize rewards both for delegators and recipients of the support DOJO aims to provide. To acheive higher K and move closer to achieving our mission statemnet, We are focused on the following:
+  1. Social media growth, this will help DOJO earn more deligators 
+  2. Strive for perfect system operations, we are looking into redundencies for power and internet, without which nodes will fail. We are also considering building more relays      for better and faster communication with the Cardano network. (We do not want to risk, missing or ghosting blocks in the minting process.)
+  3. Selecting a partner orginization that will both help market DOJO and allow us provide sponsorships to its children and youth members in a un-biased fasion. 
 
 ### Who are we?
-We are Live!! As of epoch 358 (08/18/22) we are now offically ready stake!! Based out of a small town in northern British Columbia, Canada, we are devoted to the support and growth of children. We here at DOJO stakepool are using the Cardano platform to try and help support children and youth, follow and accomplish thier dreams while bridging the world of crypto to the sport karate world.
+Based out of a small town in northern British Columbia, Canada, we are devoted to the support and growth of children. We here at DOJO stakepool are using the Cardano platform to try and help support children and youth, and follow and accomplish thier dreams while bridging the world of crypto to the sport martial arts world.
 
 ### How do we plan on accomplishing this?
-Using a percentage of the earnings this pool makes, we devote 3% towards funding or sponsoring children chosen at random at karate sporting events throughout the year. Once this pool operates at saterated levels, we anticipate aproximatly 100k+ ADA in donations yearly to children and youth. We are interested in donating anything from equipment to travel expenses for karate sport tournaments.
+Using a percentage of the earnings this pool makes, we devote 3% towards funding or sponsoring children chosen at random at martial arts sporting events throughout the year. Once this pool operates at saterated levels, we hope to support 100k+ ADA in donations yearly to children and youth. We are interested in donating anything from equipment, training, travel expenses, and regestration fees to competitiors for martial arts tournaments.
 
 ### Can you help?
 Yes! To help us achieve our goal, you can stake with us using your cardano wallets of choice that support staking protocols (eg daedelus wallet).
 Ticker: DOJO
+
+Otherwise please check out our socials listed below, like and share DOJO and help us get our community growing.  
 
 ### How to stake?
   1. In order to stake you will need to have Cardano (ADA) perchased and stored in a cardano wallet that suports cardano's POS protocols. 
@@ -27,10 +40,11 @@ For more information on what Cardano is or what the staking protocol is, please 
 2. <https://cardano.org/stake-pool-operation#what-is-staking>
 
 ### Where to find us
-We will continue to update this page with information as needed and if you would like to follow the impact youve help make withing the karate sports community, see our sponsored competitors at events as well as their results at the events, you can follow our socials:
-- instagram (on its way)
-- facebook (on its way)
-- youtube (on its way)
+We will continue to update this page with information as needed. If you would like to follow the impacts of your contributions or stay up to date with DOJO Stakepool and its sponsors in the martial arts communities, you can follow our socials:
+- instagram: https://www.instagram.com/dojo_stakepool/
+- facebook https://www.facebook.com/profile.php?id=100092201523298
+- youtube https://youtube.com/@dojostakepool7322
+
 Thank you so much for your support and continued support,
 Best regards,
 The DOJO Stakepool Team
