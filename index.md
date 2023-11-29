@@ -1,9 +1,9 @@
 
-# Welcome to Dojo Stakepool
+# Welcome to DOJO Stakepool
 We are Live!! As of epoch 358 (08/18/22) we are now offically ready stake!!
 
 ### Updates (November 28th, 2023)
-Great news everyone. DOJO has teamed up with WKU Canada as the official recepient of DOJO's sponsorships. DOJO and WKU Canada are still experimenting with breakdown options on how to sponsor youth best. We currently plan on deviding the sponsorship percentage in 2, where the first half will be available through a application based program for low income famillies. The second half of the sponsorship percentage will be available to anyone (under the age of 18) and we plan on selecting the winner through a raffle process to promote decentralisation and fairness to all. 
+Great news everyone. DOJO has teamed up with WKU Canada as the official recepient of DOJO's sponsorships. DOJO and WKU Canada are still experimenting with breakdown options on how to sponsor youth best. We currently plan on dividing the sponsorship percentages in 2, where the first half will be available through a application based program for low income families. This is to ensure that funding is made available to people who need it most. The second half of the sponsorship percentage will be available to anyone (under the age of 18) and we plan on selecting the winner through a raffle process to promote decentralisation and fairness to all. 
 
 Currently, DOJO has earned enough rewards from the previous year and a quarter to sponsor youth at the 2024 WKU National Championships hosted in Calgary, early summer. We will update our page on what the sponsorship is and what our next steps are very soon.
 
