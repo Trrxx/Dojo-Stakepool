@@ -2,6 +2,13 @@
 # Welcome to Dojo Stakepool
 We are Live!! As of epoch 358 (08/18/22) we are now offically ready stake!!
 
+### Updates (November 28th, 2023)
+Great news everyone. DOJO has teamed up with WKU Canada as the official recepient of DOJO's sponsorships. DOJO and WKU Canada are still experimenting with breakdown options on how to sponsor youth best. We currently plan on deviding the sponsorship percentage in 2, where the first half will be available through a application based program for low income famillies. The second half of the sponsorship percentage will be available to anyone (under the age of 18) and we plan on selecting the winner through a raffle process to promote decentralisation and fairness to all. 
+
+Currently, DOJO has earned enough rewards from the previous year and a quarter to sponsor youth at the 2024 WKU National Championships hosted in Calgary, early summer. We will update our page on what the sponsorship is and what our next steps are very soon.
+
+This is a massive step for our community and an increadible opertunity to bridge our two entities and come together to support children doing what they love. Thank you to everyone deligating with us and your continued support.
+
 ### Updates (May 22nd 2023)
 After 3/4 of the last year of being operational, DOJO has successfully minted 3 blocks. Our delegators are making money and 3% of the earnings from all rewards will be given to children at random at martial arts sporting events. Our social media outlets were created and have been growing in followers. Instagram, Facebook and YouTube pages for DOJO stakepool have been created.
 
